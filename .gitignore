@@ -1,1 +1,16 @@
- 
+# Środowisko wirtualne
+finansai_env/
+
+# Pliki konfiguracyjne
+.env
+
+# Pliki cache Pythona
+__pycache__/
+*.pyc
+
+# Logi
+*.log
+
+# Pliki systemowe
+.DS_Store
+Thumbs.db
